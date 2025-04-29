@@ -36,7 +36,7 @@ refactor(server): remove redundant sha1 print
 
 #### Reviews & Approvals
 
-All pull requests should be reviewed by at least two Iggy committer.
+All pull requests should be reviewed by at least two Iggy committers.
 
 #### Merge Style
 
@@ -69,7 +69,7 @@ Rustup will read Iggy's `rust-toolchain.toml` and set up everything else automat
 
 ```shell
 $ cargo version
-cargo 1.69.0 (6e9a83356 2023-04-12)
+cargo 1.86.0 (adf9b6ad1 2025-02-28)
 ```
 
 ## How to build
